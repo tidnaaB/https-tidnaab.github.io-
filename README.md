@@ -23,6 +23,6 @@ If you have any questions, collaboration ideas, or just want to connect, feel fr
 
 - **Email:** [GregRPress@gmail.com.com](mailto:your-email@example.com)
 - **LinkedIn:** [Gregory Press](https://www.linkedin.com)
-- **Twitter:** [@GregFromPTS](https://twitter.com/)
+- **Twitter:** [@GregFromPTI](https://twitter.com/)
 
 Thank you for visiting my portfolio repository. I look forward to sharing my work with you!
